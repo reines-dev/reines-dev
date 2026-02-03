@@ -23,9 +23,9 @@ Soy un **Ingeniero de Datos, Software y Proyectos** apasionado por la tecnologí
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hreine&show_icons=true&theme=radical&rank_icon=github" alt="Estadísticas de GitHub de HREIN"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=reines-dev&show_icons=true&theme=radical&rank_icon=github" alt="Estadísticas de GitHub de HREIN"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hreine&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reines-dev&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
